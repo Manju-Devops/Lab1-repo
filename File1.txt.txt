@@ -1,7 +1,14 @@
 This is the first line added to local repo master
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd line added in B1 Local
 =======
 
 3rd line added to Local B2
 >>>>>>> B2
+=======
+2nd line added to local repo Branch
+3rd line added to the central Branch B1
+4th line added to the central B1 again
+5th line added to the central B1 
+>>>>>>> 83262c05436d1af1dfef22116a4dbdfca0a31a2a
