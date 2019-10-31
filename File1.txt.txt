@@ -1,2 +1,7 @@
 This is the first line added to local repo master
+<<<<<<< HEAD
 2nd line added in B1 Local
+=======
+
+3rd line added to Local B2
+>>>>>>> B2
